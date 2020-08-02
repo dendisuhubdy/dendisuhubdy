@@ -1,16 +1,29 @@
-### Hi there 👋
+## Gist
 
-<!--
-**dendisuhubdy/dendisuhubdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on @bitwyre
+- 🌱 I’m currently learning C++ and Rust
+- 👯 I’m looking to collaborate on mathematical papers
+- 🤔 I’m looking for help with 
+- 💬 Ask me about deep learning
+- 📫 How to reach me: dendi@dtl.ventures
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a freediver
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+mDMEXxkkHBYJKwYBBAHaRw8BAQdAdeo+g+9bHyb7EIxR8krZ07oJWrxLhFDjxbS4
+RdsMwYy0LERlbmRpIFN1aHViZHkgKEp1bHkyMDIwKSA8ZGVuZGlAYml0d3lyZS5j
+b20+iJYEExYIAD4WIQTn2TSCfZagLRA+qnpfneJ/eb668wUCXxkkHAIbAwUJACeN
+AAULCQgHAgYVCgkICwIEFgIDAQIeAQIXgAAKCRBfneJ/eb6686DjAQDBQGgOe/aF
+LLmiiua3ysS40E2hGA62NQCJPBNDopN12wD/aunCeRy81ojMDA19OsSAHBGgSwzk
+D7XEQqwYiMIcjwO4OARfGSQcEgorBgEEAZdVAQUBAQdAwfuAPhSh3N29/ph7Bx8b
+I4a5s7BFMGMmixrtyYkZ2A4DAQgHiH4EGBYIACYWIQTn2TSCfZagLRA+qnpfneJ/
+eb668wUCXxkkHAIbDAUJACeNAAAKCRBfneJ/eb6682DAAQCu4ifk/JdaAJC45BfV
+ynd/yqa4BezPySNqFmeYunq53QEAiU9M+hZgwZpx5UKRTCf9ULiVK4tN+66GcSO0
+2EvLFQk=
+=zH/r
+-----END PGP PUBLIC KEY BLOCK-----
+```
