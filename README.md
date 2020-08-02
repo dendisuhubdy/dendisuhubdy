@@ -1,15 +1,3 @@
-## Gist
-
-- 🔭 I’m currently working on @bitwyre
-- 🌱 I’m currently learning C++ and Rust
-- 👯 I’m looking to collaborate on mathematical papers
-- 🤔 I’m looking for help with 
-- 💬 Ask me about deep learning
-- 📫 How to reach me: dendi@dtl.ventures
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a freediver
-
-
 ## Contact Me
 
 ```
