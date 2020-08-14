@@ -1,5 +1,9 @@
 ## Contact Me
 
+![Keybase ZEC](https://img.shields.io/keybase/zec/dendisuhubdy?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/dendisuhubdy?style=for-the-badge)
+
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mDMEXxkkHBYJKwYBBAHaRw8BAQdAdeo+g+9bHyb7EIxR8krZ07oJWrxLhFDjxbS4
