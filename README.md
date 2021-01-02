@@ -1,5 +1,6 @@
 ## Contact Me
 
+![Keybase BTC](https://img.shields.io/keybase/btc/dendisuhubdy?style=for-the-badge)
 ![Keybase ZEC](https://img.shields.io/keybase/zec/dendisuhubdy?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dendisuhubdy?style=for-the-badge)
 
