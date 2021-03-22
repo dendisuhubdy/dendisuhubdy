@@ -1,0 +1,18 @@
+name: Most recent works
+on:
+  schedule: 
+    - cron: '0 12 * * *' # Runs every day, 13h00 UTC
+  workflow_dispatch:
+jobs:
+  update-readme-with-blog:
+    name: Update the description with the desired posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://engineering.bitwyre.com/sitemap-posts.xml"
+          max_post_count: 7
+          template: "- [$title]($url) ($date)$newline"
+          date_format: dddd, yyyy dd mmmm
+          tag_post_pre_newline: true
