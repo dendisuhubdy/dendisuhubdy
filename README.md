@@ -4,4 +4,5 @@
 - Prop Trading: @systematictradinggroup
 - Cyber Security: Scorpion Cybersecurity
 - Government AI Contracting: Oberon Analytics
-- Physical Commodities Trading: American Switzerland Commodities Corporation 
+- Physical Commodities Trading: American Switzerland Commodities Corporation
+- Venture Fund: Canggu Ventures
