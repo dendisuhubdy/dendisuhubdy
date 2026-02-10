@@ -1,11 +1,10 @@
 ## Ventures
 
-- Artificial Intelligence: MyLobster (@MyLobster-ai)
-- Cyber Security: Scorpion Defense (@scorpiondefense)
-- Crypto securities: Bitwyre (@bitwyre)
-- Prop Trading: Systematic Trading Group (@systematictradinggroup)
-- Physical Commodities Trading: American Indies Commodities Corporation (no Github)
-- Venture Fund: Canggu Ventures (@cangguventures)
+- Artificial Intelligence: [MyLobster](https://github.com/MyLobster-ai)
+- Cyber Security: [Scorpion Defense](https://github.com/scorpiondefense)
+- Crypto securities: [Bitwyre](https://github.com/bitwyre)
+- Prop Trading: [Systematic Trading Group](https://github.com/systematictradinggroup)
+- Venture Fund: [Canggu Ventures](https://github.com/cangguventures)
 
 ## Ventures/Companies Sold
 - Grokvideo
