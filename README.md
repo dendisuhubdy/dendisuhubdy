@@ -1,15 +1,15 @@
-## Ventures
+## Current Ventures
 
-- Artificial Intelligence: [MyLobster](https://github.com/MyLobster-ai)
-- Cyber Security: [Scorpion Defense](https://github.com/scorpiondefense)
-- Crypto securities: [Bitwyre](https://github.com/bitwyre)
-- Prop Trading: [Systematic Trading Group](https://github.com/systematictradinggroup)
-- Venture Fund: [Canggu Ventures](https://github.com/cangguventures)
+- **[MyLobster](https://mylobster.ai)** - An AI Agentic Orchestration Platform allowing multiple agents to collaborate to achieve an organizational goal
+- **[Scorpion Defense](https://github.com/scorpiondefense)** - An Offensive Cybersecurity firm, security tools and exploit broker
+- **[Bitwyre](https://bitwyre.com)** - A crypto derivatives and spot exchange specializing in stablecoins
+- **[Systematic Trading Group](https://systematictradinggroup.com)** - A High Frequency Trading (HFT) proprietary fund and market maker
+- **[Canggu Ventures](https://github.com/cangguventures)** - A venture fund specializing in deep technology ventures
 
-## Ventures/Companies Sold
-- Grokvideo
-- PT Teknologi Struktur Berantai
-- Dynamic Securities
+## Ventures Sold
+- Grokvideo: video search engine using deep learning
+- PT Teknologi Struktur Berantai: a crypto exchange licensed in Indonesia
+- Dynamic Securities: a crypto exchange licensed in Kyrgyzstan
 
 ## Contact
 
