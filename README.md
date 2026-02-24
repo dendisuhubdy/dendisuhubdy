@@ -7,15 +7,13 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ## Education
 
-- 🎓 **PhD Student, Computer Science — Deep Learning** · Université de Montréal / [Mila](https://mila.quebec/) · Advisor: [Yoshua Bengio](https://yoshuabengio.org/)
+- 🎓 **PhD Student (incomplete), Computer Science — Deep Learning** · Université de Montréal / [Mila](https://mila.quebec/) · Advisor: [Yoshua Bengio](https://yoshuabengio.org/)
 - 🎓 **M.S. Mathematics** · North Carolina State University · Fulbright Scholar
-- 🎓 **B.S. Mathematics & Economics** · University of Indonesia
+- 🎓 **B.S. Economics** · University of Indonesia
 
 ## Current Ventures
 
