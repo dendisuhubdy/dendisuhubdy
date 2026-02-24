@@ -1,4 +1,4 @@
-👋 Founder, researcher, and systems programmer from Lombok, Indonesia. Fulbright scholar. Former PhD student at [Mila](https://mila.quebec/) under [Yoshua Bengio](https://yoshuabengio.org/). I build things at the intersection of AI, cryptography, and high-performance computing.
+👋 Serial tech entrepreneur, investor, researcher, and systems programmer from Indonesia. Fulbright scholar. Former PhD student at [Mila](https://mila.quebec/) under [Yoshua Bengio](https://yoshuabengio.org/). I build things at the intersection of AI, cryptography, and high-performance computing.
 
 ## Skills & Languages
 
