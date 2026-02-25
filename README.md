@@ -17,11 +17,15 @@
 
 ## Current Ventures
 
-- 🦞 **[MyLobster](https://mylobster.ai)** - An AI Agentic Orchestration Platform allowing multiple agents to collaborate to achieve an organizational goal
-- 🦂 **[Scorpion Defense](https://github.com/scorpiondefense)** - An Offensive Cybersecurity firm, security tools and exploit broker
+- 🦂 **[Scorpion Intelligence](https://scorpionintelligence.xyz)** - An Offensive Cybersecurity firm, security tools and exploit broker
+
+## Ventures Built
+
 - 💱 **[Bitwyre](https://bitwyre.com)** - A crypto derivatives and spot exchange specializing in stablecoins
 - 📈 **[Systematic Trading Group](https://systematictradinggroup.com)** - A High Frequency Trading (HFT) proprietary fund and market maker
-- 🏖️ **[Canggu Ventures](https://github.com/cangguventures)** - A venture fund specializing in deep technology ventures
+- 🦞 **[MyLobster](https://mylobster.ai)** - An AI Agentic Orchestration Platform allowing multiple agents to collaborate to achieve an organizational goal
+- 📁 **[Durian Market](https://durian.market)** - A Secure Web File Server
+- 🐂 **[Pasar Sapi](https://pasarsapi.net)** - A Cow Market Place in Indonesia
 
 ## Ventures Sold
 
