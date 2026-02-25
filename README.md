@@ -11,7 +11,7 @@
 
 ## Education
 
-- 🎓 **PhD Student (incomplete), Computer Science — Deep Learning** · Université de Montréal / [Mila](https://mila.quebec/) · Advisor: [Yoshua Bengio](https://yoshuabengio.org/)
+- 🎓 **PhD (incomplete), Computer Science — Deep Learning** · Université de Montréal / [Mila](https://mila.quebec/) · Advisor: [Yoshua Bengio](https://yoshuabengio.org/)
 - 🎓 **M.S. Mathematics** · North Carolina State University · Fulbright Scholar
 - 🎓 **B.S. Economics** · University of Indonesia
 
