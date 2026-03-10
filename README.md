@@ -27,12 +27,6 @@
 - 📁 **[Durian Market](https://durian.market)** - A Secure Web File Server
 - 🐂 **[Pasar Sapi](https://pasarsapi.net)** - A Cow Market Place in Indonesia
 
-## Ventures Sold
-
-- 🎥 Grokvideo: video search engine using deep learning
-- 🇮🇩 PT Teknologi Struktur Berantai: a crypto exchange licensed in Indonesia
-- 🇰🇬 Dynamic Securities: a crypto exchange licensed in Kyrgyzstan
-
 ## Open Source
 
 - ⭐ **[libtorch_examples](https://github.com/dendisuhubdy/libtorch_examples)** - Libtorch C++ Examples
