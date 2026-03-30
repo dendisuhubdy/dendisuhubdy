@@ -66,11 +66,12 @@
 ## GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=dendisuhubdy&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dendisuhubdy&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dendisuhubdy&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dendisuhubdy&theme=github_dark" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dendisuhubdy&theme=github_dark" alt="Top Languages by Repo" />
 </p>
 
 ## Contact
