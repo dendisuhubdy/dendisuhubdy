@@ -21,7 +21,7 @@
 
 ## Ventures Built
 
-- 💱 **[Bitwyre](https://bitwyre.com)** - A crypto derivatives and spot exchange specializing in stablecoins
+- 💱 **[Bitwyre](https://bitwyre.com)** - A cryptocurrency darkpool and smart CEX DEX order-router
 - 📈 **[Systematic Trading Group](https://systematictradinggroup.com)** - A High Frequency Trading (HFT) proprietary fund and market maker
 - 🦞 **[MyLobster](https://mylobster.ai)** - An AI Agentic Orchestration Platform allowing multiple agents to collaborate to achieve an organizational goal
 - 📁 **[Durian Market](https://durian.market)** - A Secure Web File Server
