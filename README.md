@@ -27,6 +27,16 @@
 - 📁 **[Durian Market](https://durian.market)** - A Secure Web File Server
 - 🐂 **[Pasar Sapi](https://pasarsapi.net)** - A Cow Market Place in Indonesia
 
+## Ventures Sold
+
+- 🎥 **Grokvideo** - A video search engine using deep learning
+- 🇰🇬 **Dynamic Securities** - A crypto exchange licensed in Kyrgyzstan
+
+## Investments
+
+- 💰 **[Kast](https://kast.xyz)** - A stablecoin financial platform for storing, earning, moving, and spending stablecoins globally across 170+ countries
+- 💰 **[Parts Order](https://partsorder.ai)** - AI-powered audio mastering software that converts stereo music stems into Dolby Atmos masters
+
 ## Open Source
 
 - ⭐ **[libtorch_examples](https://github.com/dendisuhubdy/libtorch_examples)** - Libtorch C++ Examples
